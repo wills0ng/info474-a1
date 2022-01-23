@@ -1,0 +1,30 @@
+key,coffee,caffeineActual,caloriesActual,priceMGActual,category,calories,caffeine,price,silhouette
+0,Green Tea,25,0,0.1,TEA,0,25,0.1,tea
+1,Espresso,65,5,0.05,COFFEE,5,65,0.05,espresso
+2,Yerba Mate,85,5,0.03,TEA,5,85,0.03,tea
+3,Double Espresso,130,6,0.04,COFFEE,6,130,0.04,espresso
+4,Americano,225,15,0.02,COFFEE,15,225,0.02,large
+5,Americano + milk,225,30,0.02,COFFEE,30,225,0.02,large
+6,English Breakfast + 1 sugar,56,39,0.13,TEA,39,26,0.13,tea
+7,Turkish Coffee ,25,46,0.12,COFFEE,46,25,0.12,espresso
+8,Red Bull,77,46,0.03,SOFT DRINK,46,77,0.03,redbull
+9,Sugar-free Hot Chocolate,5,60,1.26,CHOCOLATE,60,5,0.5,large
+10,Instant Coffee + 2 sugars,47,83,0.01,COFFEE,83,47,0.01,large
+11,Café Crème,225,106,0.02,COFFEE,106,225,0.02,espresso
+12,Cappuccino ,150,120,0.03,COFFEE,120,150,0.03,tea
+13,Pepsi,38,139,0.03,SOFT DRINK,138.6,38,0.03,can
+14,Coke ,32,150,0.03,SOFT DRINK,150,32,0.03,can
+15,Latte,150,190,0.03,COFFEE,190,150,0.03,tea
+16,Dark Chocolate Bar ,42,205,0.03,NON-DRINK,205,42,0.03,chocolate
+17,Mocha (small),195,220,0.02,COFFEE,220,195,0.02,espresso
+18,Chai Latte ,95,240,0.05,TEA,240,95,0.05,tea
+19,Lucozade,46,266,0.02,SOFT DRINK,266,46,0.02,lucozade
+20,Mountain Dew,91,290,0.01,SOFT DRINK,290,91,0.01,mtn-dew
+21,Spiced Hot Chocolate ,25,320,0.24,CHOCOLATE,320,25,0.24,large
+22,Ghana-Java Hot Chocolate ,25,380,0.24,CHOCOLATE,380,25,0.24,large
+23,Vanilla Cream Frappuccino ,65,400,0.1,COFFEE,400,65,0.1,iced
+24,Frappuccino ,110,410,0.06,COFFEE,410,110,0.06,iced
+25,Caramel Sticky Mocha ,110,420,0.05,COFFEE,420,110,0.05,espresso
+26,Mocha (big),150,430,0.04,COFFEE,430,150,0.04,espresso
+27,Hot choc + marshmallows,25,480,0.23,CHOCOLATE,480,25,0.23,espresso
+28,Coffee Ice Cream ,48,540,0.06,NON-DRINK,500,48,0.06,coffee-ice-cream
